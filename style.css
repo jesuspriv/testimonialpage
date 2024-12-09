@@ -55,7 +55,7 @@ li::before {
     display: inline-block;
     width: 20px; /* Ajusta el tamaño del ícono */
     height: 20px;
-    background-image: url("imagenes/Done_ring_round_fill.svg");
+    background-image: url("done_ring_round_fill.svg");
     background-size: cover; /* Asegura que la imagen se ajuste correctamente */
     
 }
